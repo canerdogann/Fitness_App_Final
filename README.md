@@ -11,9 +11,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
 
-![Screenshot_2](https://github.com/canerdogann/Fitness-App-Front/assets/148792959/3c8f6e78-6663-4a3b-8ab1-42615cb6c39b)
-![Screenshot_3](https://github.com/canerdogann/Fitness-App-Front/assets/148792959/f31eddea-14a1-4c42-8462-73b18a5a47ce)
-![Screenshot_4](https://github.com/canerdogann/Fitness-App-Front/assets/148792959/924fb3d9-77f7-4d7c-b290-cde078eb0f58)
-![Screenshot_5](https://github.com/canerdogann/Fitness-App-Front/assets/148792959/a06e415c-e67b-4cee-a97f-80b138f28d5e)
-![Screenshot_6](https://github.com/canerdogann/Fitness-App-Front/assets/148792959/bace38d0-36e5-442f-afe0-e01ee690dd2d)
-![Screenshot_8](https://github.com/canerdogann/Fitness-App-Front/assets/148792959/e3b4a01f-67f2-462f-977f-2953b62d8796)
+![1](https://github.com/canerdogann/Fitness_App_Final/assets/148792959/b06772e8-ec4d-4229-b583-c9623d229a01)
+![2](https://github.com/canerdogann/Fitness_App_Final/assets/148792959/184cb2d2-6e61-4190-acc1-1ac9789926c9)
+![3](https://github.com/canerdogann/Fitness_App_Final/assets/148792959/4a8978d4-4f2c-4dea-8c6a-0d63ddb1679e)
+![4](https://github.com/canerdogann/Fitness_App_Final/assets/148792959/28fa49e3-1a00-40a8-9cf1-f64b604bbf91)
+![5](https://github.com/canerdogann/Fitness_App_Final/assets/148792959/7c388c05-311e-4551-93aa-6972de86f03e)
+![6](https://github.com/canerdogann/Fitness_App_Final/assets/148792959/8ad4e3ca-6ddf-4df5-b69b-3904a434b3e5)
